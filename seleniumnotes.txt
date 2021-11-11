@@ -72,3 +72,18 @@ git log >>for checking history
 git checkout idofCommit
 git checkout master
 
+for github==
+make repository in github
+add one file in demo folder 
+add it through comd promt (1. git add seleniumnotes.txt 
+
+2.git commit -m "This is First Commit"
+
+3.git config --global user.email "komal7062000@gmail.com"
+git config --global user.email "Komal Pitrubhakt"
+
+4.paste repository url
+git remote add origin https://github.com/komalpitrubhakt/GitExample.git
+
+5.git push -u origin master)
+
