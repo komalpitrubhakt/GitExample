@@ -1,0 +1,74 @@
+priority is for which code runs the first
+
+assert for checking actual and expected output
+
+for seeing output in briwser refresh source folder u got index file in bottom folder right click on that pen with browser
+
+Testng
+datadriven
+
+
+j unit- it is required in codility test 
+ -tsestng is advanced version of j unit 
+-right click on junit >>new>>junit tst case>> new unit4>>give name of the class>>
+select setupbefore and after>>Finish>>It gives warning click on OK
+
+right click pack>>other>.junit>>junit tst suite>>next>>unchecksuite>>finish 
+
+object repository - new>>file>>.property
+
+
+for mavven
+other>>maven>>create simple project>>next>com.infotech>>
+
+create notepad file>>save as csv>>make csve
+
+admin,admin123
+hr,hr123
+demo,demo123
+prem,prem@123
+
+for reading csv file use dependency 
+
+apache>>excel
+jdcc>>database
+
+cucumber plugin-
+make maven project tsl cucumber copy dependencies 
+make 2 packages runner stepdefination
+in resources make file add features here you see green color cucmber ssymbol
+
+
+
+
+API testing= 
+
+api.openweathermap.org/data/2.5/weather?q={Pune}&appid=3bca6b8f84bf9a5f744e8d992e19d238
+
+
+
+git hub tokenn-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
+
+
+
+
+
+setup for downloadig-
+
+node js
+apache setup
+git download
+
+
+git in it
+git add hello.txt
+git commit -m "This is First Commit"
+
+Set email and name
+git config --global user.email "komal7062000@gmail.com"
+git config --global user.email "Komal Pitrubhakt"
+
+git log >>for checking history
+git checkout idofCommit
+git checkout master
+
