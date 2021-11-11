@@ -1,0 +1,33 @@
+1.What is Java
+2.Advantages and features of Java
+3.What is Class and Object
+3.Inheritance
+4.Encapsulation
+5.Polymorphism and its types
+6.Abstraction
+7.Access modifier
+8.Collection
+9.List,Set,Map
+10.Branching
+11.Constructor
+12.Array
+13.Interface
+14.JDBC
+15.Difference bet Arrays and collections
+16.Exception
+17. Xml and Dml
+18.What type of exception null type of exception-unchecked
+
+
+
+1.Clauses
+2. What is database
+3.Normalisation 
+4.Join
+5.
+
+
+
+whener name is in anchor tag use by.linktext
+where we have to control mouse or keyboard we use Action keyword
+from pressing keyboard use keyDown
